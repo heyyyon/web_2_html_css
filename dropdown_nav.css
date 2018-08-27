@@ -11,7 +11,7 @@ ul {
 }
 ul li {
     float: left;
-    width: 300px;
+    width: 250px;
     height: 50px;
     background-color: gray;
     opacity: .9;
@@ -43,7 +43,7 @@ ul li ul li a:link {
 
 }
 
-@media screen and (max-width: 400px){
+@media screen and (min-width: 400px){
     body {
         background: url('s_natsuhayate.jpg') no-repeat;
         background-size: cover;
