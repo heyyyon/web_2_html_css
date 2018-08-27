@@ -43,8 +43,8 @@ ul li ul li a:link {
 
 }
 
-@media screen and (min-width: 1268px){
+@media screen and (min-width: 800px){
     ul li {
-        width: 300px;
+        width: 100px;
     }
 }
